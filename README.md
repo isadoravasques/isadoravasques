@@ -1,5 +1,5 @@
 
-![banner (1)](https://github.com/isadoravasques/isadoravasques/assets/168482632/2b1727f8-a09b-4716-9ccb-e52cfbfd3ce9)
+
 
 
 <h3>I'm <strong>Isadora Vasques da Luz</strong>, I'm 27 years old, I'm Brazilian.I'm a Front-end. </h3>
